@@ -16,7 +16,7 @@ Dating all the way back to 2009, the dataset contains the trip records for each 
 
 The aim of this project will be to analyse the trip record data of Yellow and Green taxi cabs from January 2019 to April 2022 using Databricks Spark. The datasets are initially uploaded into a cloud storage platform (eg: Azure) and integrated into Databricks for further analysis using SparkSQL. PySpark will be used to build two ML models in order to predict the total amount column. The ML models will be tested for accuracy on a slice of the dataset.
 
-Read the full project execution report, including steps to setup [here]()
+Read the full project execution report, including steps to setup [here](https://github.com/iaks23/nyc-taxi-analysis/blob/main/handover_report.pdf)
 
 
 # 📂 Dataset Link 
